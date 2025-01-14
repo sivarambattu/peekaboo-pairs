@@ -3,9 +3,6 @@ Motivation was to develop something that my kid enjoys playing.
 
 URL of the game: [Peekaboo Pairs](https://dev.d25jskoji0j0wl.amplifyapp.com)
 
-![New game](docs/peekaboo-pairs-1.png)
-![Finished game](docs/peekaboo-pairs-2.png)
-
 Instructions to run the game locally:
 ```
 $ npm install
@@ -75,3 +72,9 @@ I am quite surprised on how far I was able to go with the Amazon Q IDE integrate
   - Add different levels of difficulty
     - Bigger board
     - Varying background colors for the cards
+
+## Images of the game
+
+![New game](docs/peekaboo-pairs-1.png)
+
+![Finished game](docs/peekaboo-pairs-2.png)
